@@ -1,4 +1,4 @@
-=== Advanced Custom Fields Custom WYSIWYG Styles ===
+=== Advanced Custom Fields: Custom WYSIWYG Styles ===
 Contributors: wdm-team
 Donate link: http://www.webdesign-muenchen.de/acf/
 Tags: acf, tinymce
@@ -42,6 +42,9 @@ Place the css-file called "tinymce.css" in your theme directoy in the subdirecto
 For example, if the ACF WYSIWYG field is called "supertest", then the bodyclass is "acf_supertest". In your tinymce.css file you can work with e.g. body.acf_supertest
 
 == Changelog ==
+
+= 1.1 =
+* Performance improved
 
 = 1.0 =
 * Release of the plugin
